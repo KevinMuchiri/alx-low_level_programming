@@ -6,3 +6,11 @@ This project will sharpen my skills in C
 2-assembler -output assembly code to a file. use gcc -S
 
 3-name - outputs compiled results to file cisfun
+
+4-puts.c - a c program displaying a string using puts
+
+5-printf.c - a c program printing a string followed by a \n new line
+
+6-size.c - prints the suzes of various datatypes
+
+100-intel -
