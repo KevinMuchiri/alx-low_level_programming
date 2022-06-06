@@ -3,6 +3,14 @@
 /* more headers goes there */
 #include <stdio.h>
 /* betty style doc for function main goes there */
+/**
+ * main - use to check for condition
+ *
+ * Description: return the results when conditions are met
+ *
+ * Return: return integer 0
+ *
+ */
 int main(void)
 {
 	int n;
@@ -13,7 +21,7 @@ int main(void)
 	{
 		printf( "%d is negative\n", n);
 	}
-	else if (n == 0)
+	else if(n == 0)
 	{
 		printf("%d is zero\n", n);
 	}
@@ -21,5 +29,5 @@ int main(void)
 	{
 		printf("%d is positive\n", n);
 	}
-	return (0);
+	return(0);
 }
